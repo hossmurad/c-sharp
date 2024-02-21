@@ -17,6 +17,7 @@ public static class Program
 	       sum = sum + i;
 	   }
 	    
+	    Console.WriteLine("5+10+15+20+...+500");
 	    Console.WriteLine("Summation of the Seris is : {0}", sum);
 	
     }
