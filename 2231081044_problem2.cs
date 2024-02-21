@@ -5,7 +5,7 @@ namespace Hoss
 {
 public static class Program 
 {         
-    public static void Main()
+    public static void Main(string[] args)
     {
           //UU_2231081044, Md. Murad Hossain
 	   //sum of the following  series sing for loop
